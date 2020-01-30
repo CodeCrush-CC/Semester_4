@@ -1,9 +1,8 @@
-# Octave
-
 This repository contains codes/program for semester-4.
 
 # Softwares used:
-   *jhfskvhf
+//nhfcfnh 
+
 The list to the questions of the programs is given in the repository in form of Pdf named as " DIRECTORY ", instead of downloading the whole repository, one can check for the desired code and can download the required program as per need.
 
 All programs are error free and are compiled and then executed in MS-Dos Box version-0.74 on Windows.
