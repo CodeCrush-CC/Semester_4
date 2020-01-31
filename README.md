@@ -8,10 +8,11 @@ This repository contains codes/program for semester-4, GTBIT, GGSIPU
   ## b) Oracle Database 11gR2 XE for DBMS:
         download link from Oracle: https://www.oracle.com/database/technologies/xe-prior-releases.html
         download link from drive: https://drive.google.com/open?id=19KEa_5ZZhxoFk1qO7p4x-os7rgwz9NZz
-        Youtube tutorial: https://youtu.be/e8BJ0S7J7zg
+        Youtube tutorial for downloading (Youtube creator unknown): https://youtu.be/e8BJ0S7J7zg
      
  ## c) DOSBox for OOP's:
-      You may download MS-Dos Box version-0.74 for Windows here: https://drive.google.com/open?id=1ptV06g5P5zt3ryw1uI5zrxxg3TeMQCxA
+      You may download MS-Dos Box version-0.74 for Windows here:
+      https://drive.google.com/open?id=1ptV06g5P5zt3ryw1uI5zrxxg3TeMQCxA
 
       Instructions: 
 
