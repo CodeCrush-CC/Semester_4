@@ -14,7 +14,7 @@ One can check for the desired code and can download the required program as per 
 
 All programs are error free and are compiled and then executed.
 
-Contact me through mail (if required): tusharmalhotra494@gmail.com
+Contact me through mail (if required): code.n.crush@gmail.com
 
 
 # Follow CodeCrush-CC for more updates! 
