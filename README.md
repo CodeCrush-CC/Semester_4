@@ -7,7 +7,7 @@ This repository contains codes/program for semester-4, GTBIT, GGSIPU
         
   ## b) Oracle Database 11gR2 XE for DBMS
         download link from Oracle: https://www.oracle.com/database/technologies/xe-prior-releases.html
-        download link from drive: https://drive.google.com/open?id=1QuMCRKTuTSlMPbxxpY0j0f1Ug5vdAydd
+        download link from drive: https://drive.google.com/open?id=19KEa_5ZZhxoFk1qO7p4x-os7rgwz9NZz
         Youtube tutorial: https://youtu.be/e8BJ0S7J7zg
   
 One can check for the desired code and can download the required program as per need.
