@@ -60,8 +60,8 @@ void main()
 {
 	clrscr();
 
-	cout<<"\nName: Tushar Malhotra"
-	    <<"\nRoll number: 42513202718 " ;
+	cout<<"\nName: ----"
+	    <<"\nRoll number: ----" ;
 
 	matrix m ;
 	m.input() ;
