@@ -13,7 +13,7 @@ endfor
 
 fprintf('\nThe factorial is:  %d', s) ;
 
-fprintf('\n\nTushar Malhotra') ;
-fprintf('\nRoll Number: 42513202718') ;
+fprintf('\n\nYour name') ;
+fprintf('\nRoll Number: your roll no') ;
 
 end
