@@ -1,1 +1,5 @@
-
+Ques 2. To perform various operations on matrices using MATLAB. 
+Ques 3. To write the propagation of fibonacci series. 
+Ques 4. To calculate the factorial of a number.
+Ques 5. To enter radius and print circle.
+Ques 6. To calculate integral using simpson's one-third rule. 
