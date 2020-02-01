@@ -16,7 +16,7 @@ endfor
 
 fprintf('The value of integral is: %f', (h/3)*s) ;
 
-fprintf('\n\nTushar Malhotra') ;
-fprintf('\n Roll number: 42513202718') ;
+fprintf('\n\ntour name') ;
+fprintf('\n Roll number: your roll no') ;
 
 end
