@@ -27,7 +27,7 @@ This repository contains codes/program for semester-4, GTBIT, GGSIPU
 
 One can check for the desired code and can download the required program as per need.
 
-All programs are error free and are compiled and then executed.
+All programs are error free and are compiled and then executed in MS-Dos Box version-0.74 for Windows, if you find any problem it's your problem not mine. 🤷‍♀️ 
 
 Contact me through mail (if required): code.n.crush@gmail.com
 
