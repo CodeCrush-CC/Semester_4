@@ -15,7 +15,7 @@ for i=1:n
   
 endfor
 
-fprintf('\n\nTushar Malhotra') ;
-fprintf('\n Roll Number: 42513202718') ;
+fprintf('\n\nyour name') ;
+fprintf('\n Roll Number: your roll no ') ;
 
 end
