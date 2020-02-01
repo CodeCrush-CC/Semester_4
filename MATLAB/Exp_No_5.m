@@ -15,7 +15,7 @@ title('Circle with radius r') ;
 xlabel('x axis') ;
 ylabel('yaxis') ;
 
-fprintf('\n\nTushar Malhotra') ;
-fprintf('\n Roll number: 42513202718') ;
+fprintf('\n\nYour name') ;
+fprintf('\n Roll number: your roll no') ;
 
 end
