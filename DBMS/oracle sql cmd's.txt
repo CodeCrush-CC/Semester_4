@@ -1,0 +1,79 @@
+create table EMP(ename char(20), ecity char(25), salary int, enumber int, eaddress char(25), dept_name char(20)) ;
+
+create table COMPANY (ename char(20), ecity char(25), empnumber int) ;
+
+insert into EMP values('Tushar Malhotra', 'New Delhi', 450000, 8856472320, 'Lajpat Nagar', 'CSE') ;
+
+insert into EMP values('Rahul Sahi', 'Uttar Pradesh', 350000, 7856472320, 'Mirzapur', 'IT') ;
+
+insert into EMP values('Vishnu Bhagwat', 'New Delhi', 250000, 9685647232, 'Karol Bagh', 'CSE', 'Sales Person') ;
+
+insert into EMP values('Vikas Bishnoi', 'Rajasthan', 150000, 9585647232, 'no', 'ECE') ;
+
+insert into EMP values('Yash Sharma', 'Madhya Pradesh', 150000, 9485647232, 'Gwalior', 'EEE', 'Accountant') ;
+
+
+insert into COMPANY values ('ABC', 'ABC city', 000000000) ;
+
+insert into COMPANY values ('DEF', 'DEF city', 111111111) ;
+
+insert into COMPANY values ('GHI', 'GHI city', 222222222) ;
+
+insert into COMPANY values ('JKL', 'JKL city', 333333333) ;
+
+insert into COMPANY values ('MNO', 'MNO city', 444444444) ;
+
+insert into COMPANY values ('PQR', 'PQR city', 555555555) ;
+
+
+select *from EMP ;
+
+
+select *from COMPANY;
+
+select ename, dept_name from EMP ;
+
+select ename from EMP where ecity = 'New Delhi' ;
+
+SELECT ename from COMPANY where empnumber > 10000 ;
+
+select ename from EMP where ename like 'T%' || 'V%' ;
+ 
+update COMPANY set ecity = 'Gurugram' where ename = 'GHI' ;
+
+
+update EMP set salary = salary+5000 ;
+
+update EMP set salary = salary+10000 where ename = 'Tushar Malhotra';
+
+alter table EMP add ecode char(5) ;
+
+update EMP set salary = 4500.250 where ename = 'Tushar Malhotra';
+
+update EMP set salary = 8026.364 where ename = 'Rahul Sahi';
+
+update EMP set salary = 9652.301  where ename = 'Vishnu Bhagwat';
+
+update EMP set salary = 4569.2365 where ename = 'Vikas Bishnoi';
+
+update EMP set salary = 47893.250  where ename = 'Yash Sharma';
+
+alter table EMP modify ecode char(10) ;
+
+alter table EMP drop column ecode ;
+
+delete from EMP where ename = 'Yash Sharma' ;
+
+delete from COMPANY where empnumber < 500 ;
+
+alter table EMP modify salary float ;
+
+update EMP set designation = 'Warehouse Manager' where ename = 'Tushar Malhotra';
+update EMP set designation = 'Developer' where ename = 'Vikas Bishnoi';
+update EMP set designation = 'Driver' where ename = 'Rahul Sahi';
+update EMP set designation = 'Sales Person' where ename = 'Vishnu Bhagwat';
+update EMP set designation = 'Accountant' where ename = 'Yash Sharma';
+
+alter table EMP drop column dept_name ;
+
+Drop table EMP ;
