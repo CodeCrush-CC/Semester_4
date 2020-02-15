@@ -11,8 +11,21 @@ This repository contains codes/program for semester-4, GTBIT, GGSIPU
         download link from Oracle: https://www.oracle.com/database/technologies/xe-prior-releases.html
         download link from drive: https://drive.google.com/open?id=19KEa_5ZZhxoFk1qO7p4x-os7rgwz9NZz
         Youtube tutorial for downloading (Youtube creator unknown): https://youtu.be/e8BJ0S7J7zg
+  
+  ## c)  Simulator for Computer Architecture and Oraganization:
+         
+         This Simulator is a Virtual Lab developed by IIT Kharagpur. It's developed for x32 bit architecture. So in case you have x64            bit computer "Don't worry". Just follow the Steps:
+         
+         a) Download x86 JDK. Let the path of installation be default. 
+         b) Set the path of bin in Environment variables. If everything goes right it will be: 
+            C:\Program Files (x86)\Java\jdk1.8.0_241\bin
+         c) For setting up Environemnt variables, Type Environment variables in windows Search button > Environment variables > System                variables > Select Path > click on edit > new > and paste the path > click ok.
+         d) To verify that the installation is successful open cmd and run command 'java -version'.
+         e) Download the Simulator.
+         f) To run the Simulator, open the command prompt, then go to the directory where you have saved it using cd command and then               give the following command to run the simulator: java -jar Simulator.jar
+         g) Download Link for x86 JDK and Simulator: https://drive.google.com/open?id=1qknvDkDEfDV0--S6mU9CZj9gip94rzDm
      
- ## c) DOSBox for OOP's:
+ ## d)DOSBox for OOP's:
       You may download MS-Dos Box version-0.74 for Windows here:
       https://drive.google.com/open?id=1v13BW9Plbb0yKwn6IgR3Jgb3lOmZh-jU
       
