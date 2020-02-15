@@ -14,15 +14,23 @@ This repository contains codes/program for semester-4, GTBIT, GGSIPU
   
   ## c)  Simulator for Computer Architecture and Oraganization:
          
-         This Simulator is a Virtual Lab developed by IIT Kharagpur. It's developed for x32 bit architecture. So in case you have x64            bit computer "Don't worry". Just follow the Steps:
+         This Simulator is a Virtual Lab developed by IIT Kharagpur. 
+         It's developed for x32 bit architecture. So in case you have x64 bit computer "Don't worry".
          
+         Just follow the Steps:
+        
          a) Download x86 JDK. Let the path of installation be default. 
          b) Set the path of bin in Environment variables. If everything goes right it will be: 
             C:\Program Files (x86)\Java\jdk1.8.0_241\bin
-         c) For setting up Environemnt variables, Type Environment variables in windows Search button > Environment variables > System                variables > Select Path > click on edit > new > and paste the path > click ok.
-         d) To verify that the installation is successful open cmd and run command 'java -version'.
+            
+         c) For setting up Environemnt variables, Type Environment variables in windows Search button > 
+         Environment variables > System variables > Select Path > click on edit > new > and paste the path > click ok.
+         
+         d) To verify that the installation is successful open cmd and run command: java -version.
          e) Download the Simulator.
-         f) To run the Simulator, open the command prompt, then go to the directory where you have saved it using cd command and then               give the following command to run the simulator: java -jar Simulator.jar
+         f) To run the Simulator, open the command prompt, then go to the directory where
+         you have saved it using cd command and then give the following command to run the simulator: java -jar Simulator.jar
+         
          g) Download Link for x86 JDK and Simulator: https://drive.google.com/open?id=1qknvDkDEfDV0--S6mU9CZj9gip94rzDm
      
  ## d)DOSBox for OOP's:
