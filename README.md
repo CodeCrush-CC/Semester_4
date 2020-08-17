@@ -12,7 +12,7 @@ This repository contains codes/program for semester-4, GTBIT, GGSIPU
 ######        download link from drive: https://drive.google.com/open?id=19KEa_5ZZhxoFk1qO7p4x-os7rgwz9NZz
 ######        Youtube tutorial for downloading (Youtube creator unknown): https://youtu.be/e8BJ0S7J7zg
   
-  ## c)  Simulator for Computer Architecture and Oraganization:
+  ## c)  Simulator for Computer Architecture and Oraganization (COA):
          
          This Simulator is a Virtual Lab developed by IIT Kharagpur. 
          It's developed for x32 bit architecture. So in case you have x64 bit computer "Don't worry".
